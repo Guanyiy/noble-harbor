@@ -4,7 +4,7 @@ name: "Guanyi Yang"
 role: "Master’s Student in Applied Statistics"
 organization: "University of Michigan, Ann Arbor"
 
-avatar: "images/profile5.jpg"
+# avatar: "images/profile5.jpg"
 
 bio: |
   I study how statistical modeling can improve our understanding of cognitive aging 
